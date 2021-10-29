@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Bhupendra Singh Senhar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Bhupendra Singh Sengar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -19,7 +19,12 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/bhupendra-singh-sengar-20a59b184/><img align="center"  src="https://img.shields.io/badge/bhupendra-singh-sengar-20a59b184?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bhupe7017@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bhupe7017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Bhupe7017" target="blank"><img align="center" src="/url?url=https%3A%2F%2Ftwitter.com%2FBhupendra000888" /></a><src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white/Bhupendra000888">
+  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/bhupendra-singh-sengar-20a59b184/)](https://www.linkedin.com/in/bhupendra-singh-sengar-20a59b184/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/innocent_cute_handsome/)](https://www.instagram.com/innocent_cute_handsome/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://www.twitter.com/Bhupendra000888)](https://www.twitter.com/Bhupendra000888)
+  
+ &nbsp;&nbsp;&nbsp;  <a href="mailto:bhupe7017@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bhupe7017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -34,6 +39,7 @@
 <br>
 <hr>
 <Br>
+  
 <h1 align="center">Tools I use! 🛠️</h1>
 <Br>
  
@@ -57,8 +63,9 @@
 
 <h1 align="center">Brower I Work!🌐</h1>
 <Br>
-(https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-
+  
+|![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+|---|
 
 <br>
 <hr>
@@ -67,8 +74,9 @@
 
 <h1 align="center">OS I Work!💻</h1>
 <Br>
-(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+  
+|![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+|---|
 
 <br>
 <hr>
@@ -76,8 +84,9 @@
 
 <h1 align="center">IDE I Work!👩‍💻</h1>
 <Br>
+  
 |![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+|---|
 <Br>
 <hr>
 <Br>
