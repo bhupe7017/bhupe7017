@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Bhupendra Singh Senhar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -19,38 +19,64 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/bhupendra-singh-sengar-20a59b184/><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://https://www.linkedin.com/in/bhupendra-singh-sengar-20a59b184/><img align="center"  src="https://img.shields.io/badge/bhupendra-singh-sengar-20a59b184?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bhupe7017@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bhupe7017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Bhupe7017" target="blank"><img align="center" src="/url?url=https%3A%2F%2Ftwitter.com%2FBhupendra000888" /></a><src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white/Bhupendra000888">
 </p>
   
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">Language I Know! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/Javascript-FFD50C?style=for-the-badge&logo=Javascript&logoColor=black)|![](https://img.shields.io/badge/Html-FFD50C?style=for-the-badge&logo=Html&logoColor=black)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
-<Br>
+|![]()|![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![](https://img.shields.io/badge/And%20More!-yellow?style=fond%20More!-yellow?style=for-the-badge)
+<br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1 align="center">Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+|![](https://img.shields.io/badge/React-FFD50C?style=for-the-badge&logo=React&logoColor=darkRed)|![](https://https://img.shields.io/badge/Next-FFD50C?style=for-the-badge&logo=React&logoColor=darkRed)|![](https://img.shields.io/badge/Python-FFD50C?style=for-the-badge&logo=Python&logoColor=black)|![](https://img.shields.io/badge/Javascript-FFD50C?style=for-the-badge&logo=Javascript&logoColor=black)|![](https://img.shields.io/badge/Html-FFD50C?style=for-the-badge&logo=Html&logoColor=black)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-
+|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)||![](|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+ <br>
+<hr>
+<Br> 
+<h1 align="center">Frameworks I Know!🚀</h1>
 <Br>
+
+|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)|![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)|![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|
+|---|---|---|---|---|---|
+|![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)|![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)|![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)|![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)|![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)||![](|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+
+
+<br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+
+<h1 align="center">Brower I Work!🌐</h1>
 <Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+(https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+
+<br>
+<hr>
+<Br>
+
+
+<h1 align="center">OS I Work!💻</h1>
+<Br>
+(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+<br>
+<hr>
+<Br>
+
+<h1 align="center">IDE I Work!👩‍💻</h1>
+<Br>
+|![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <Br>
 <hr>
@@ -60,8 +86,7 @@
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
+|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)]
  
 
 <Br>
@@ -70,7 +95,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=Bhupe7017&show_icons=true&theme=merko)](https://github.com/Bhupe7017/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupe7017&layout=compact&theme=merko)](https://github.com/bhupe7017/github-readme-stats)
 
  
 <Br>
