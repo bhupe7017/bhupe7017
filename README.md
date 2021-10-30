@@ -88,7 +88,7 @@
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/bhupe7017/responsive-web-design)|[![](https://img.shields.io/badge/Python%20Toolbox%20-I-orange?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/KIKZYBBS)|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/LUJVWJMD)|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/XGPKVIQN)|[![]
+|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/KIKZYBBS)|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/LUJVWJMD)|[![](https://img.shields.io/badge/Great%20Learning-103bb3?style=for-the-badge&logo=GrateLearning&logoColor=white)](https://olympus1.greatlearning.in/course_certificate/XGPKVIQN)|
  
 
 <Br>
