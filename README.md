@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade BCA graduate.
+- 🏫: I'm a BCA graduate.
 - 🔭: I’m currently working with React Project ,Python Project & Power BI.
 - 🌱: I’m currently learning Next.js , Django and flask. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
@@ -83,7 +83,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
+<h1 align="center">Certifications! 🏆</h1>
 <Br>
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/bhupe7017/responsive-web-design)|[![](https://img.shields.io/badge/Python%20Toolbox%20-I-orange?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|
@@ -94,7 +94,7 @@
 <Br>
 <hr>
 <Br>
-<h1>GitHub Stats! 📊</h1>
+<h1 align="center">GitHub Stats! 📊</h1>
 <Br>
   
 [![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=Bhupe7017&show_icons=true&theme=merko)](https://github.com/Bhupe7017/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupe7017&layout=compact&theme=merko)](https://github.com/bhupe7017/github-readme-stats)
@@ -103,7 +103,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Quotes</h1>
+<h1 align="center">Quotes</h1>
 <Br>
   
 <img src="https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg"/>
@@ -113,7 +113,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵 </h1>
 <Br>
 
 ------
