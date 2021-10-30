@@ -40,16 +40,6 @@
 <br>
 <hr>
 <Br>
-  
-<h1 align="center">Tools I use! 🛠️</h1>
-<Br>
- 
-|![](https://img.shields.io/badge/React-FFD50C?style=for-the-badge&logo=React&logoColor=darkRed)|![](https://https://img.shields.io/badge/Next-FFD50C?style=for-the-badge&logo=React&logoColor=darkRed)|![](https://img.shields.io/badge/Python-FFD50C?style=for-the-badge&logo=Python&logoColor=black)|![](https://img.shields.io/badge/Javascript-FFD50C?style=for-the-badge&logo=Javascript&logoColor=black)|![](https://img.shields.io/badge/Html-FFD50C?style=for-the-badge&logo=Html&logoColor=black)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)||![](|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
- <br>
-<hr>
-<Br> 
 <h1 align="center">Frameworks I Know!🚀</h1>
 <Br>
 
@@ -86,15 +76,17 @@
 <h1 align="center">IDE I Work!👩‍💻</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-|---|
+|![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)|![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+|---|---|
+|![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)|![]
+  
 <Br>
 <hr>
 <Br>
 <h1>Certifications! 🏆</h1>
 <Br>
   
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|[![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/bhupe7017/responsive-web-design)|[![](https://img.shields.io/badge/Python%20Toolbox%20-I-orange?style=for-the-badge)](https://certificates.simplicdn.net/share/2983492_1635428125.pdf)|
 |---|---|---|---|
 |[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)]
  
